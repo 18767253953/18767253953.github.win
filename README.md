@@ -7,5 +7,6 @@
 第六步，把刚才复制内容黏贴到下面一个方框里，并在上面标题栏为这个公钥命名，保存退出
 1，在ubuntu电脑上新建一个目录github（名字自己取，建议用短英文）
 2，进入github目录
-3，输入命令：git clone git@github.com:kingsone995/kingsone995.github.io.g
-![123]("C:\Users\DELL\Desktop\18767253953.github.win.123.jpg")
+3，输入命令：git clone git@github.com:kingsone995kingsone995.github.io.g
+
+![123](/imag/c:/Users/DELL/Desktop/18767253953.github.win/img/123.jpg )
