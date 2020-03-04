@@ -1,4 +1,5 @@
 # 18767253953.github.win
+<<<<<<< HEAD
 第一步，进入到~/.ssh目录，里面有两个文件 id_rsa和id_rsa.pub。
 第二步，执行gedit id_rsa.pub,把里面内容全部复制之后关闭文件。
 第三步，进入到github网站，单击个人图标右边的向下三角，选择里面的settings
@@ -10,3 +11,4 @@
 3，输入命令：git clone git@github.com:kingsone995kingsone995.github.io.g
 
 ![123](/imag/c:/Users/DELL/Desktop/18767253953.github.win/img/123.jpg )
+
